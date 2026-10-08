@@ -1,6 +1,6 @@
 {
   "dealership": "Murray Buick Gmc Penticton",
-  "generated_at": "2026-09-26T10:30:38",
+  "generated_at": "2026-10-08T14:40:44",
   "vehicle_count": 169,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -13,7 +13,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2015-Ford-Focus-ST-1FADP3L91FL236159/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2015-Ford-Focus-ST-1FADP3L91FL236159/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:05:09",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Used2015GMCSierra 15004WDSLT",
@@ -23,7 +25,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2015-GMC-Sierra_1500-SLT-3GTU2VEJ0FG332020/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2015-GMC-Sierra_1500-SLT-3GTU2VEJ0FG332020/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:05:17",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Used2015MitsubishiRVRFWDSE",
@@ -34,7 +38,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2015-Mitsubishi-RVR-SE-4A4AH3AU4FE602386/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2015-Mitsubishi-RVR-SE-4A4AH3AU4FE602386/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:05:28",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Used2018GMCSierra 3500HD4WDDenali",
@@ -45,7 +51,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2018-GMC-Sierra_3500HD-Denali-1GT42YEY0JF284687/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2018-GMC-Sierra_3500HD-Denali-1GT42YEY0JF284687/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:05:37",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Used2018GMCSierra 3500HD4WDSLT",
@@ -56,7 +64,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2018-GMC-Sierra_3500HD-SLT-1GT42XEY8JF145689/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2018-GMC-Sierra_3500HD-SLT-1GT42XEY8JF145689/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:05:46",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Used2019FordEdgeAWDTitanium",
@@ -66,7 +76,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2019-Ford-Edge-Titanium-2FMPK4K91KBB82526/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2019-Ford-Edge-Titanium-2FMPK4K91KBB82526/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:05:55",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Used2019GMCCanyon4WD4WD All Terrain w/Cloth",
@@ -77,7 +89,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2019-GMC-Canyon-4WD_All_Terrain_w%2FCloth-1GTP6FE13K1231036/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2019-GMC-Canyon-4WD_All_Terrain_w%2FCloth-1GTP6FE13K1231036/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:06:04",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Used2019HondaRidgelineAWDBlack Edition",
@@ -88,7 +102,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2019-Honda-Ridgeline-Black_Edition-5FPYK3F85KB503031/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2019-Honda-Ridgeline-Black_Edition-5FPYK3F85KB503031/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:06:14",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Certified Used2020GMCSierra 3500HD4WDDenali",
@@ -99,7 +115,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2020-GMC-Sierra_3500HD-Denali-1GT49WEY8LF252802/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2020-GMC-Sierra_3500HD-Denali-1GT49WEY8LF252802/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:06:23",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Used2020GMCYukonAWDDenali",
@@ -110,7 +128,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2020-GMC-Yukon-Denali-1GKS2CKJ7LR122692/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2020-GMC-Yukon-Denali-1GKS2CKJ7LR122692/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:06:33",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Used2021BuickEncore GXAWDPreferred",
@@ -121,7 +141,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2021-Buick-Encore_GX-Preferred-KL4MMCSLXMB182082/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2021-Buick-Encore_GX-Preferred-KL4MMCSLXMB182082/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:06:42",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Used2021GMCAcadiaAWDAT4",
@@ -132,7 +154,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2021-GMC-Acadia-AT4-1GKKNLLS8MZ167012/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2021-GMC-Acadia-AT4-1GKKNLLS8MZ167012/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:06:53",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Used2021GMCAcadiaAWDSLE",
@@ -143,7 +167,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2021-GMC-Acadia-SLE-1GKKNRL44MZ160613/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2021-GMC-Acadia-SLE-1GKKNRL44MZ160613/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:07:05",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Used2021GMCSierra 3500HD4WDSLT",
@@ -154,7 +180,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2021-GMC-Sierra_3500HD-SLT-1GT49UEY4MF301256/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2021-GMC-Sierra_3500HD-SLT-1GT49UEY4MF301256/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:07:15",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Used2022ChevroletSilverado 15004WDLT",
@@ -165,7 +193,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2022-Chevrolet-Silverado_1500-LT-3GCUDDET8NG627161/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2022-Chevrolet-Silverado_1500-LT-3GCUDDET8NG627161/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:07:26",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Certified Used2023BuickEncore GXAWDEssence",
@@ -176,7 +206,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2023-Buick-Encore_GX-Essence-KL4MMGSL4PB007337/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2023-Buick-Encore_GX-Essence-KL4MMGSL4PB007337/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T07:12:24",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Certified Used2023BuickEnvisionAWDAvenir",
@@ -187,7 +219,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2023-Buick-Envision-Avenir-LRBFZSR45PD196679/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2023-Buick-Envision-Avenir-LRBFZSR45PD196679/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T07:12:33",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Used2023GMCSierra 15004WDAT4",
@@ -198,7 +232,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2023-GMC-Sierra_1500-AT4-1GTUUEE86PZ173514/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2023-GMC-Sierra_1500-AT4-1GTUUEE86PZ173514/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T07:12:44",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Certified Used2023GMCSierra 15004WDDenali",
@@ -209,7 +245,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2023-GMC-Sierra_1500-Denali-3GTUUGED1PG119532/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2023-GMC-Sierra_1500-Denali-3GTUUGED1PG119532/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T07:12:54",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Certified Used2023GMCYukon XL4WDDenali",
@@ -220,7 +258,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2023-GMC-Yukon_XL-Denali-1GKS2JKT8PR520120/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2023-GMC-Yukon_XL-Denali-1GKS2JKT8PR520120/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T07:13:03",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Used2023Land RoverDefenderAWDX",
@@ -230,7 +270,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2023-Land_Rover-Defender-X-SALEXFEU1P2226037/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2023-Land_Rover-Defender-X-SALEXFEU1P2226037/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T07:13:14",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Used2023VolkswagenAtlas Cross SportAWDExecline",
@@ -241,7 +283,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2023-Volkswagen-Atlas_Cross_Sport-Execline-1V2FE2CA6PC213022/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2023-Volkswagen-Atlas_Cross_Sport-Execline-1V2FE2CA6PC213022/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T07:13:25",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Certified Used2024GMCSierra 15004WDDenali",
@@ -252,7 +296,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2024-GMC-Sierra_1500-Denali-3GTUUGEL8RG212008/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2024-GMC-Sierra_1500-Denali-3GTUUGEL8RG212008/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T07:13:36",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Certified Used2024GMCSierra 15004WDElevation",
@@ -263,7 +309,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2024-GMC-Sierra_1500-Elevation-1GTUUCED6RZ338983/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2024-GMC-Sierra_1500-Elevation-1GTUUCED6RZ338983/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T07:13:46",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Certified Used2024GMCSierra 15004WDElevation",
@@ -274,7 +322,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2024-GMC-Sierra_1500-Elevation-3GTUUCE82RG107775/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2024-GMC-Sierra_1500-Elevation-3GTUUCE82RG107775/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T07:13:56",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Certified Used2024GMCSierra 15004WDPro",
@@ -285,7 +335,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2024-GMC-Sierra_1500-Pro-3GTUUAED2RG126585/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2024-GMC-Sierra_1500-Pro-3GTUUAED2RG126585/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T07:14:17",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Used2024GMCSierra 3500HD4WDAT4",
@@ -296,7 +348,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2024-GMC-Sierra_3500HD-AT4-1GT49VEY1RF363758/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2024-GMC-Sierra_3500HD-AT4-1GT49VEY1RF363758/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T07:14:27",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Certified Used2024GMCSierra 3500HD4WDDenali",
@@ -307,7 +361,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2024-GMC-Sierra_3500HD-Denali-1GT49WEY8RF335915/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2024-GMC-Sierra_3500HD-Denali-1GT49WEY8RF335915/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T07:14:36",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Used2024GMCSierra 3500HD4WDDenali Ultimate",
@@ -318,7 +374,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2024-GMC-Sierra_3500HD-Denali_Ultimate-1GT49YEY0RF237957/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2024-GMC-Sierra_3500HD-Denali_Ultimate-1GT49YEY0RF237957/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T07:14:47",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Certified Used2025BuickEnclaveAWDSport Touring",
@@ -329,7 +387,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2025-Buick-Enclave-Sport_Touring-5GAEVBRS2SJ112174/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2025-Buick-Enclave-Sport_Touring-5GAEVBRS2SJ112174/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T07:14:57",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Certified Used2025GMCSierra 15004WDAT4",
@@ -340,7 +400,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2025-GMC-Sierra_1500-AT4-1GTUUEE89SZ209432/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2025-GMC-Sierra_1500-AT4-1GTUUEE89SZ209432/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T07:15:08",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Used2025GMCSierra 15004WDDenali Ultimate",
@@ -351,7 +413,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2025-GMC-Sierra_1500-Denali_Ultimate-1GTUUHE88SZ199834/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2025-GMC-Sierra_1500-Denali_Ultimate-1GTUUHE88SZ199834/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T07:15:19",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Certified Used2025GMCSierra 3500HD4WDDenali",
@@ -362,7 +426,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2025-GMC-Sierra_3500HD-Denali-1GT4UWEY2SF164065/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2025-GMC-Sierra_3500HD-Denali-1GT4UWEY2SF164065/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T07:15:30",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "Certified Used2025GMCSierra 3500HD4WDDenali",
@@ -373,7 +439,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2025-GMC-Sierra_3500HD-Denali-1GT4UWEY6SF315375/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2025-GMC-Sierra_3500HD-Denali-1GT4UWEY6SF315375/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T07:15:39",
-      "condition": "used"
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026BuickEnclaveAWDAvenir",
@@ -384,7 +452,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Enclave-Avenir-5GAEVCKS3TJ400139/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Enclave-Avenir-5GAEVCKS3TJ400139/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:28:07",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026BuickEncore GXAWDAvenir",
@@ -395,7 +465,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Encore_GX-Avenir-KL4AMGSL4TB040710/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Encore_GX-Avenir-KL4AMGSL4TB040710/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:28:19",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026BuickEncore GXAWDAvenir",
@@ -406,7 +478,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Encore_GX-Avenir-KL4AMGSL4TB078129/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Encore_GX-Avenir-KL4AMGSL4TB078129/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:28:30",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026BuickEncore GXAWDAvenir",
@@ -417,7 +491,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Encore_GX-Avenir-KL4AMGSL5TB040683/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Encore_GX-Avenir-KL4AMGSL5TB040683/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:28:42",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026BuickEnvisionAWDAvenir",
@@ -428,7 +504,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Envision-Avenir-LRBFZSR4XTD084308/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Envision-Avenir-LRBFZSR4XTD084308/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:28:52",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026BuickEnvisionAWDPreferred",
@@ -439,7 +517,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Envision-Preferred-LRBFZMR43TD004312/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Envision-Preferred-LRBFZMR43TD004312/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:29:01",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026BuickEnvisionAWDSport Touring",
@@ -450,7 +530,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Envision-Sport_Touring-LRBFZPR41TD115068/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Envision-Sport_Touring-LRBFZPR41TD115068/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:29:12",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026BuickEnvisionAWDSport Touring",
@@ -461,7 +543,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Envision-Sport_Touring-LRBFZPR43TD091677/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Envision-Sport_Touring-LRBFZPR43TD091677/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:29:24",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026BuickEnvisionAWDSport Touring",
@@ -472,7 +556,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Envision-Sport_Touring-LRBFZPR48TD084434/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Envision-Sport_Touring-LRBFZPR48TD084434/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:29:33",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026BuickEnvisionAWDSport Touring",
@@ -483,7 +569,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Envision-Sport_Touring-LRBFZPR49TD115237/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Envision-Sport_Touring-LRBFZPR49TD115237/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:29:43",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026BuickEnvistaFWDPreferred",
@@ -494,7 +582,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Envista-Preferred-KL47LAE21TB274509/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Envista-Preferred-KL47LAE21TB274509/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:29:53",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026BuickEnvistaFWDPreferred",
@@ -505,7 +595,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Envista-Preferred-KL47LAE24TB216457/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Envista-Preferred-KL47LAE24TB216457/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:30:05",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026BuickEnvistaFWDPreferred",
@@ -516,7 +608,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Envista-Preferred-KL47LAE25TB302943/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Envista-Preferred-KL47LAE25TB302943/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:30:14",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026BuickEnvistaFWDPreferred",
@@ -527,7 +621,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Envista-Preferred-KL47LAE26TB216217/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Envista-Preferred-KL47LAE26TB216217/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:30:23",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026BuickEnvistaFWDPreferred",
@@ -538,7 +634,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Envista-Preferred-KL47LAE26TB272335/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Envista-Preferred-KL47LAE26TB272335/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:30:33",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026BuickEnvistaFWDPreferred",
@@ -549,7 +647,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Envista-Preferred-KL47LAE28TB305755/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Envista-Preferred-KL47LAE28TB305755/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:37:59",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026BuickEnvistaFWDSport Touring",
@@ -560,7 +660,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Envista-Sport_Touring-KL47LBE24TB201687/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Envista-Sport_Touring-KL47LBE24TB201687/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:38:09",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026BuickEnvistaFWDSport Touring",
@@ -571,7 +673,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Envista-Sport_Touring-KL47LBE25TB215100/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Envista-Sport_Touring-KL47LBE25TB215100/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:38:20",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026BuickEnvistaFWDSport Touring",
@@ -582,7 +686,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Envista-Sport_Touring-KL47LBE2XTB235794/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-Buick-Envista-Sport_Touring-KL47LBE2XTB235794/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:38:31",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCAcadiaAWDDenali Ultimate",
@@ -593,7 +699,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Acadia-Denali_Ultimate-1GKENTKS8TJ347683/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Acadia-Denali_Ultimate-1GKENTKS8TJ347683/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:38:41",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCCanyon4WDAT4",
@@ -604,7 +712,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Canyon-AT4-1GTP2DEK4T1154767/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Canyon-AT4-1GTP2DEK4T1154767/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:38:50",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCCanyon4WDAT4",
@@ -615,7 +725,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Canyon-AT4-1GTP2DEK5T1306636/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Canyon-AT4-1GTP2DEK5T1306636/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:39:01",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCCanyon4WDElevation",
@@ -626,7 +738,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Canyon-Elevation-1GTP2BEK5T1155902/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Canyon-Elevation-1GTP2BEK5T1155902/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:39:08",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCCanyon4WDElevation",
@@ -637,7 +751,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Canyon-Elevation-1GTP2BEK8T1306571/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Canyon-Elevation-1GTP2BEK8T1306571/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:39:17",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCCanyon4WDElevation",
@@ -648,7 +764,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Canyon-Elevation-1GTP2BEK9T1126032/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Canyon-Elevation-1GTP2BEK9T1126032/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:39:28",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCCanyon4WDElevation",
@@ -659,7 +777,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Canyon-Elevation-1GTP2BEK9T1306465/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Canyon-Elevation-1GTP2BEK9T1306465/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:39:39",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCCanyon4WDElevation",
@@ -670,7 +790,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Canyon-Elevation-1GTP2BEKXT1178026/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Canyon-Elevation-1GTP2BEKXT1178026/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:39:49",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCCanyon4WDElevation",
@@ -681,7 +803,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Canyon-Elevation-1GTP2BEKXT1306099/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Canyon-Elevation-1GTP2BEKXT1306099/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:40:00",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCCanyon4WDElevation",
@@ -692,7 +816,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Canyon-Elevation-1GTP2BEKXT1306118/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Canyon-Elevation-1GTP2BEKXT1306118/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:40:12",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCHUMMER EV SUV4WD2X",
@@ -703,7 +829,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-HUMMER_EV_SUV-2X-1GKTENDE7TU605393/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-HUMMER_EV_SUV-2X-1GKTENDE7TU605393/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:40:22",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDAT4",
@@ -714,7 +842,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-AT4-3GTUUEE80TG477464/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-AT4-3GTUUEE80TG477464/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:40:31",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDAT4",
@@ -725,7 +855,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-AT4-3GTUUEEL2TG420378/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-AT4-3GTUUEEL2TG420378/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:40:41",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDAT4X",
@@ -736,7 +868,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-AT4X-3GTUUFEL2TG385962/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-AT4X-3GTUUFEL2TG385962/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:40:50",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDAT4X",
@@ -747,7 +881,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-AT4X-3GTUUFEL3TG213259/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-AT4X-3GTUUFEL3TG213259/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:41:00",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDAT4X",
@@ -758,7 +894,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-AT4X-3GTUUFEL4TG217014/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-AT4X-3GTUUFEL4TG217014/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:41:11",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDAT4X",
@@ -769,7 +907,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-AT4X-3GTUUFEL4TG385963/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-AT4X-3GTUUFEL4TG385963/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:41:23",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDDenali",
@@ -780,7 +920,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Denali-3GTUUGE85TG352181/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Denali-3GTUUGE85TG352181/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:41:32",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDDenali Ultimate",
@@ -791,7 +933,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Denali_Ultimate-1GTUUHE84TZ396937/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Denali_Ultimate-1GTUUHE84TZ396937/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:41:42",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDDenali Ultimate",
@@ -802,7 +946,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Denali_Ultimate-1GTUUHE88TZ393474/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Denali_Ultimate-1GTUUHE88TZ393474/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:41:56",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDDenali Ultimate",
@@ -813,7 +959,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Denali_Ultimate-1GTUUHEL2TZ423394/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Denali_Ultimate-1GTUUHEL2TZ423394/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:42:06",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDElevation",
@@ -824,7 +972,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED0TZ422823/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED0TZ422823/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:42:16",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDElevation",
@@ -835,7 +985,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED4TZ422985/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED4TZ422985/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:42:25",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDElevation",
@@ -846,7 +998,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED4TZ493135/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED4TZ493135/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:42:36",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDElevation",
@@ -857,7 +1011,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED6TZ393621/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCED6TZ393621/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:42:45",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDElevation",
@@ -868,7 +1024,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCEDXTZ419847/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTUUCEDXTZ419847/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:42:55",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDElevation",
@@ -879,7 +1037,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTVUCE83TZ293564/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTVUCE83TZ293564/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:43:06",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDElevation",
@@ -890,7 +1050,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTVUCE8XTZ218232/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-1GTVUCE8XTZ218232/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:43:16",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDElevation",
@@ -901,7 +1063,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCE80TG418287/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCE80TG418287/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:43:26",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDElevation",
@@ -912,7 +1076,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCE81TG418279/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCE81TG418279/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:43:36",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDElevation",
@@ -923,7 +1089,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCE81TG418282/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCE81TG418282/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:43:44",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDElevation",
@@ -934,7 +1102,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCE83TG418283/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCE83TG418283/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:43:56",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDElevation",
@@ -945,7 +1115,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCE83TG418588/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCE83TG418588/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:44:07",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDElevation",
@@ -956,7 +1128,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCE85TG323482/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCE85TG323482/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:44:16",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDElevation",
@@ -967,7 +1141,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCE85TG418379/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCE85TG418379/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:44:27",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDElevation",
@@ -978,7 +1154,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCE87TG418285/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCE87TG418285/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:44:39",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDElevation",
@@ -989,7 +1167,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCE88TG242377/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCE88TG242377/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:44:50",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDElevation",
@@ -1000,7 +1180,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCE88TG457130/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCE88TG457130/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:45:08",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDElevation",
@@ -1011,7 +1193,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCE8XTG418586/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCE8XTG418586/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:45:19",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDElevation",
@@ -1022,7 +1206,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCED0TG471021/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCED0TG471021/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:45:30",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDElevation",
@@ -1033,7 +1219,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCED3TG324370/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCED3TG324370/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:45:40",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDElevation",
@@ -1044,7 +1232,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCED7TG249544/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Elevation-3GTUUCED7TG249544/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:45:51",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDPro",
@@ -1055,7 +1245,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Pro-1GTUUAED1TZ331614/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Pro-1GTUUAED1TZ331614/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:46:00",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDPro",
@@ -1066,7 +1258,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Pro-1GTUUAED2TZ331539/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Pro-1GTUUAED2TZ331539/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:46:11",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDPro",
@@ -1077,7 +1271,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Pro-1GTUUAED2TZ400665/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Pro-1GTUUAED2TZ400665/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:46:20",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDPro",
@@ -1088,7 +1284,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Pro-1GTUUAED6TZ393963/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Pro-1GTUUAED6TZ393963/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:46:28",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDPro",
@@ -1099,7 +1297,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Pro-1GTUUAED9TZ400761/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Pro-1GTUUAED9TZ400761/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:46:39",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDPro",
@@ -1110,7 +1310,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Pro-1GTUUAEDXTZ400655/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Pro-1GTUUAEDXTZ400655/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:46:50",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDPro",
@@ -1121,7 +1323,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Pro-3GTNUAED8TG359074/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Pro-3GTNUAED8TG359074/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:47:01",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDPro",
@@ -1132,7 +1336,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Pro-3GTPUAEK0TG470743/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Pro-3GTPUAEK0TG470743/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:47:10",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDPro",
@@ -1143,7 +1349,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Pro-3GTPUAEK1TG470427/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Pro-3GTPUAEK1TG470427/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:47:20",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDPro",
@@ -1154,7 +1362,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Pro-3GTPUAEK4TG470681/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Pro-3GTPUAEK4TG470681/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:47:31",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDPro",
@@ -1165,7 +1375,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Pro-3GTPUAEK5TG470186/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Pro-3GTPUAEK5TG470186/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:47:41",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDPro",
@@ -1176,7 +1388,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Pro-3GTPUAEK6TG470956/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Pro-3GTPUAEK6TG470956/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:47:53",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDPro",
@@ -1187,7 +1401,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Pro-3GTPUAEK9TG385867/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Pro-3GTPUAEK9TG385867/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:48:04",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDPro",
@@ -1198,7 +1414,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Pro-3GTPUAEK9TG469641/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-Pro-3GTPUAEK9TG469641/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:48:14",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDSLE",
@@ -1209,7 +1427,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-SLE-1GTRUBED3TZ275087/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-SLE-1GTRUBED3TZ275087/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:48:21",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDSLE",
@@ -1220,7 +1440,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-SLE-1GTRUBED7TZ265596/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-SLE-1GTRUBED7TZ265596/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:48:32",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDSLT",
@@ -1231,7 +1453,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-SLT-1GTUUDE88TZ391183/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-SLT-1GTUUDE88TZ391183/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:48:42",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 15004WDSLT",
@@ -1242,7 +1466,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-SLT-3GTUUDED7TG213617/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_1500-SLT-3GTUUDED7TG213617/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:48:52",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 2500HD4WDAT4X",
@@ -1253,7 +1479,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_2500HD-AT4X-1GT4UZEY1TF363532/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_2500HD-AT4X-1GT4UZEY1TF363532/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:49:04",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 2500HD4WDAT4X",
@@ -1264,7 +1492,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_2500HD-AT4X-1GT4UZEY2TF372501/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_2500HD-AT4X-1GT4UZEY2TF372501/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:49:14",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 2500HD4WDAT4X",
@@ -1275,7 +1505,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_2500HD-AT4X-1GT4UZEY5TF339685/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_2500HD-AT4X-1GT4UZEY5TF339685/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:49:23",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 2500HD4WDAT4X",
@@ -1286,7 +1518,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_2500HD-AT4X-1GT4UZEY8TF371787/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_2500HD-AT4X-1GT4UZEY8TF371787/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:49:32",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 2500HD4WDDenali Ultimate",
@@ -1297,7 +1531,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_2500HD-Denali_Ultimate-1GT4UXEYXTF338939/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_2500HD-Denali_Ultimate-1GT4UXEYXTF338939/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:49:44",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDAT4",
@@ -1308,7 +1544,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY0TF368908/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY0TF368908/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:49:55",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDAT4",
@@ -1319,7 +1557,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY1TF207922/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY1TF207922/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:50:07",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDAT4",
@@ -1330,7 +1570,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY6TF355967/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-AT4-1GT4UVEY6TF355967/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:50:16",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDDenali",
@@ -1341,7 +1583,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY9TF164520/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Denali-1GT4UWEY9TF164520/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:50:27",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDDenali Ultimate",
@@ -1352,7 +1596,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Denali_Ultimate-1GT4UYEY2TF372654/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Denali_Ultimate-1GT4UYEY2TF372654/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:50:37",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDDenali Ultimate",
@@ -1363,7 +1609,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Denali_Ultimate-1GT4UYEY3TF372730/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Denali_Ultimate-1GT4UYEY3TF372730/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:50:48",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDDenali Ultimate",
@@ -1374,7 +1622,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Denali_Ultimate-1GT4UYEY5TF105816/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Denali_Ultimate-1GT4UYEY5TF105816/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:51:00",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDDenali Ultimate",
@@ -1385,7 +1635,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Denali_Ultimate-1GT4UYEY5TF348655/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Denali_Ultimate-1GT4UYEY5TF348655/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:51:10",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDDenali Ultimate",
@@ -1396,7 +1648,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Denali_Ultimate-1GT4UYEY7TF161224/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Denali_Ultimate-1GT4UYEY7TF161224/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:51:19",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDDenali Ultimate",
@@ -1407,7 +1661,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Denali_Ultimate-1GT4UYEYXTF370246/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Denali_Ultimate-1GT4UYEYXTF370246/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:51:31",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDPro",
@@ -1418,7 +1674,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GD4USE71TF322148/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GD4USE71TF322148/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:51:40",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDPro",
@@ -1429,7 +1687,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GD4USE72TF321896/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GD4USE72TF321896/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:51:52",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDPro",
@@ -1440,7 +1700,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GD4USE74TF321303/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GD4USE74TF321303/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:27:33",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDPro",
@@ -1451,7 +1713,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GD4USE77TF321179/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GD4USE77TF321179/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:52:03",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDPro",
@@ -1462,7 +1726,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GD4USE78TF321594/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GD4USE78TF321594/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:52:13",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDPro",
@@ -1473,7 +1739,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GD4USE78TF323362/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GD4USE78TF323362/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:27:46",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDPro",
@@ -1484,7 +1752,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GT3USEY5TF279149/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GT3USEY5TF279149/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:52:24",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDPro",
@@ -1495,7 +1765,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GT4USE74TF360624/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GT4USE74TF360624/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:52:33",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDPro",
@@ -1506,7 +1778,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GT4USE77TF360648/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GT4USE77TF360648/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:52:43",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDPro",
@@ -1517,7 +1791,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GT4USE77TF360892/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GT4USE77TF360892/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:52:52",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDPro",
@@ -1528,7 +1804,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GT4USE79TF115530/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GT4USE79TF115530/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:53:04",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDPro",
@@ -1539,7 +1817,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GT4USE79TF361008/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GT4USE79TF361008/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:53:15",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDPro",
@@ -1550,7 +1830,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GT4USE7XTF116797/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GT4USE7XTF116797/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:53:26",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDPro",
@@ -1561,7 +1843,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GT4USE7XTF116850/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-Pro-1GT4USE7XTF116850/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:53:36",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDSLE",
@@ -1572,7 +1856,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-SLE-1GT4UTEY6TF175392/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-SLE-1GT4UTEY6TF175392/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:53:47",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD4WDSLE",
@@ -1583,7 +1869,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-SLE-1GT4UTEY7TF155877/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD-SLE-1GT4UTEY7TF155877/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:53:58",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD CC4WDPro",
@@ -1594,7 +1882,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD_CC-Pro-1GD4USE76TF323814/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD_CC-Pro-1GD4USE76TF323814/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:54:09",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD CC4WDPro",
@@ -1605,7 +1895,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD_CC-Pro-1GD4USE79TF323631/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD_CC-Pro-1GD4USE79TF323631/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:54:17",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD CC4WDSLE",
@@ -1616,7 +1908,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD_CC-SLE-1GD3UTEY7TF131683/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD_CC-SLE-1GD3UTEY7TF131683/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:54:29",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD CC4WDSLE",
@@ -1627,7 +1921,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD_CC-SLE-1GD3UTEY8TF131871/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD_CC-SLE-1GD3UTEY8TF131871/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:54:40",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCSierra 3500HD CC4WDSLE",
@@ -1638,7 +1934,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD_CC-SLE-1GD3UTEY8TF166359/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_3500HD_CC-SLE-1GD3UTEY8TF166359/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:54:50",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCTerrainAWDAWD Elevation",
@@ -1649,7 +1947,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Terrain-AWD_Elevation-3GKALUEG6TL394964/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Terrain-AWD_Elevation-3GKALUEG6TL394964/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:54:59",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCYukon4WDDenali",
@@ -1660,7 +1960,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon-Denali-1GKS2DKL2TR292708/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon-Denali-1GKS2DKL2TR292708/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:55:09",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCYukon4WDElevation",
@@ -1671,7 +1973,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon-Elevation-1GKS2BKD4TR209406/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon-Elevation-1GKS2BKD4TR209406/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:55:19",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCYukon4WDElevation",
@@ -1682,7 +1986,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon-Elevation-1GKS2BKDXTR426622/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon-Elevation-1GKS2BKDXTR426622/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:55:28",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCYukon XL4WDDenali",
@@ -1693,7 +1999,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon_XL-Denali-1GKS2JKL3TR263250/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon_XL-Denali-1GKS2JKL3TR263250/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:55:40",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCYukon XL4WDDenali",
@@ -1704,7 +2012,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon_XL-Denali-1GKS2JKL4TR248675/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon_XL-Denali-1GKS2JKL4TR248675/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:55:53",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCYukon XL4WDDenali",
@@ -1715,7 +2025,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon_XL-Denali-1GKS2JKL4TR253116/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon_XL-Denali-1GKS2JKL4TR253116/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:56:02",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCYukon XL4WDDenali Ultimate",
@@ -1726,7 +2038,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon_XL-Denali_Ultimate-1GKS2KKL5TR193630/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon_XL-Denali_Ultimate-1GKS2KKL5TR193630/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:56:13",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2026GMCYukon XL4WDElevation",
@@ -1737,7 +2051,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon_XL-Elevation-1GKS2GKD6TR215219/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon_XL-Elevation-1GKS2GKD6TR215219/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:56:24",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2027GMCTerrainAWDAWD AT4",
@@ -1748,7 +2064,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEG2VL123698/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEG2VL123698/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:56:34",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2027GMCTerrainAWDAWD AT4",
@@ -1759,7 +2077,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEG5VL154993/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEG5VL154993/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:56:43",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2027GMCTerrainAWDAWD AT4",
@@ -1770,7 +2090,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEG8VL175174/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEG8VL175174/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:56:54",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2027GMCTerrainAWDAWD AT4",
@@ -1781,7 +2103,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEGXVL125277/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEGXVL125277/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:57:05",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2027GMCTerrainAWDAWD Denali",
@@ -1792,7 +2116,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_Denali-3GKALZEG2VL154648/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_Denali-3GKALZEG2VL154648/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:57:16",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2027GMCTerrainAWDAWD Denali",
@@ -1803,7 +2129,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_Denali-3GKALZEG3VL149894/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_Denali-3GKALZEG3VL149894/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:57:27",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2027GMCTerrainAWDAWD Denali",
@@ -1814,7 +2142,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_Denali-3GKALZEG3VL155663/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_Denali-3GKALZEG3VL155663/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:57:35",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2027GMCTerrainAWDAWD Denali",
@@ -1825,7 +2155,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_Denali-3GKALZEG8VL155786/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_Denali-3GKALZEG8VL155786/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:57:46",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2027GMCTerrainAWDAWD Elevation",
@@ -1836,7 +2168,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_Elevation-3GKALUEG1VL134605/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_Elevation-3GKALUEG1VL134605/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:58:06",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2027GMCTerrainAWDAWD Elevation",
@@ -1847,7 +2181,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_Elevation-3GKALUEG4VL161054/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_Elevation-3GKALUEG4VL161054/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T08:58:17",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     },
     {
       "name": "New2027GMCYukon XL4WDDenali Ultimate",
@@ -1858,7 +2194,9 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Yukon_XL-Denali_Ultimate-1GKS2KKL0VR100550/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Yukon_XL-Denali_Ultimate-1GKS2KKL0VR100550/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T10:27:56",
-      "condition": "new"
+      "condition": "new",
+      "city": "Penticton",
+      "province": "BC"
     }
   ]
 }
