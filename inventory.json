@@ -1,7 +1,7 @@
 {
   "dealership": "Murray Buick Gmc Penticton",
-  "generated_at": "2026-10-19T18:15:38",
-  "vehicle_count": 185,
+  "generated_at": "2026-10-19T18:20:07",
+  "vehicle_count": 184,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -1521,19 +1521,6 @@
     },
     {
       "name": "New2026GMCSierra 2500HD4WDAT4X",
-      "vin": "1GT4UZEY2TF372501",
-      "stock": "SIERRA",
-      "color": "Onyx Black",
-      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/e57e8611aa21.html",
-      "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_2500HD-AT4X-1GT4UZEY2TF372501/",
-      "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Sierra_2500HD-AT4X-1GT4UZEY2TF372501/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-18T19:43:00",
-      "condition": "new",
-      "city": "Penticton",
-      "province": "BC"
-    },
-    {
-      "name": "New2026GMCSierra 2500HD4WDAT4X",
       "vin": "1GT4UZEY5TF339685",
       "stock": "SIERRA",
       "color": "Onyx Black",
@@ -2047,7 +2034,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/190bb7544b4d.html",
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon-Denali-1GKS2DKL2TR292708/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon-Denali-1GKS2DKL2TR292708/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:55:09",
+      "last_verified": "2026-10-19T18:17:46",
       "condition": "new",
       "city": "Penticton",
       "province": "BC"
@@ -2060,7 +2047,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/553d5c7de80c.html",
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon-Elevation-1GKS2BKD4TR209406/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon-Elevation-1GKS2BKD4TR209406/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:55:19",
+      "last_verified": "2026-10-19T18:17:56",
       "condition": "new",
       "city": "Penticton",
       "province": "BC"
@@ -2073,7 +2060,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/c7cc708df2a1.html",
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon-Elevation-1GKS2BKDXTR426622/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon-Elevation-1GKS2BKDXTR426622/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:55:28",
+      "last_verified": "2026-10-19T18:18:07",
       "condition": "new",
       "city": "Penticton",
       "province": "BC"
@@ -2086,7 +2073,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/6e136d8e51e4.html",
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon_XL-Denali-1GKS2JKL3TR263250/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon_XL-Denali-1GKS2JKL3TR263250/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:55:40",
+      "last_verified": "2026-10-19T18:18:16",
       "condition": "new",
       "city": "Penticton",
       "province": "BC"
@@ -2099,7 +2086,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/f096168dedf8.html",
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon_XL-Denali-1GKS2JKL4TR248675/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon_XL-Denali-1GKS2JKL4TR248675/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:55:53",
+      "last_verified": "2026-10-19T18:18:26",
       "condition": "new",
       "city": "Penticton",
       "province": "BC"
@@ -2112,7 +2099,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/eef5dc342e7d.html",
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon_XL-Denali-1GKS2JKL4TR253116/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon_XL-Denali-1GKS2JKL4TR253116/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:56:02",
+      "last_verified": "2026-10-19T18:18:36",
       "condition": "new",
       "city": "Penticton",
       "province": "BC"
@@ -2125,7 +2112,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/d1c99d9cbf6b.html",
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon_XL-Denali_Ultimate-1GKS2KKL5TR193630/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon_XL-Denali_Ultimate-1GKS2KKL5TR193630/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:56:13",
+      "last_verified": "2026-10-19T18:18:46",
       "condition": "new",
       "city": "Penticton",
       "province": "BC"
@@ -2138,7 +2125,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/f9fb82c389da.html",
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon_XL-Elevation-1GKS2GKD6TR215219/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2026-GMC-Yukon_XL-Elevation-1GKS2GKD6TR215219/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:56:24",
+      "last_verified": "2026-10-19T18:18:55",
       "condition": "new",
       "city": "Penticton",
       "province": "BC"
@@ -2190,7 +2177,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/82b07d570f50.html",
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEG2VL123698/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEG2VL123698/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:56:34",
+      "last_verified": "2026-10-19T18:19:06",
       "condition": "new",
       "city": "Penticton",
       "province": "BC"
@@ -2203,7 +2190,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/460007fd1ac3.html",
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEG5VL154993/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEG5VL154993/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:56:43",
+      "last_verified": "2026-10-19T18:19:17",
       "condition": "new",
       "city": "Penticton",
       "province": "BC"
@@ -2216,7 +2203,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/b36cc12af374.html",
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEGXVL125277/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_AT4-3GKALYEGXVL125277/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:57:05",
+      "last_verified": "2026-10-19T18:19:26",
       "condition": "new",
       "city": "Penticton",
       "province": "BC"
@@ -2229,7 +2216,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/d01f7a68785a.html",
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_Denali-3GKALZEG2VL154648/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_Denali-3GKALZEG2VL154648/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:57:16",
+      "last_verified": "2026-10-19T18:19:35",
       "condition": "new",
       "city": "Penticton",
       "province": "BC"
@@ -2242,7 +2229,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/bef19107c9be.html",
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_Denali-3GKALZEG3VL149894/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_Denali-3GKALZEG3VL149894/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:57:27",
+      "last_verified": "2026-10-19T18:19:44",
       "condition": "new",
       "city": "Penticton",
       "province": "BC"
@@ -2268,7 +2255,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/83beddfca014.html",
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_Denali-3GKALZEG8VL155786/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_Denali-3GKALZEG8VL155786/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:57:46",
+      "last_verified": "2026-10-19T18:19:53",
       "condition": "new",
       "city": "Penticton",
       "province": "BC"
@@ -2281,7 +2268,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/a0cf35b0c8f6.html",
       "source_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_Elevation-3GKALUEG1VL134605/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/New-2027-GMC-Terrain-AWD_Elevation-3GKALUEG1VL134605/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T08:58:06",
+      "last_verified": "2026-10-19T18:20:03",
       "condition": "new",
       "city": "Penticton",
       "province": "BC"
