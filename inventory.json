@@ -1,6 +1,6 @@
 {
   "dealership": "Murray Buick Gmc Penticton",
-  "generated_at": "2026-10-22T18:35:54",
+  "generated_at": "2026-10-25T00:18:48",
   "vehicle_count": 175,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -12,7 +12,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/used/3bfef0307f25.html",
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2014-Chevrolet-Trax-LT-3GNCJPEB2EL141960/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2014-Chevrolet-Trax-LT-3GNCJPEB2EL141960/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T18:43:22",
+      "last_verified": "2026-10-25T00:16:09",
       "condition": "used",
       "city": "Penticton",
       "province": "BC"
@@ -55,6 +55,18 @@
       "province": "BC"
     },
     {
+      "name": "Used2015GMCSierra 15004WDBASE",
+      "vin": "1GTV2TEH7FZ180792",
+      "stock": "SIERRA",
+      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/used/169f6a5275b1.html",
+      "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2015-GMC-Sierra_1500-BASE-1GTV2TEH7FZ180792/",
+      "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2015-GMC-Sierra_1500-BASE-1GTV2TEH7FZ180792/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-25T00:15:02",
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
+    },
+    {
       "name": "Used2015GMCSierra 15004WDSLT",
       "vin": "3GTU2VEJ0FG332020",
       "stock": "SIERRA",
@@ -62,19 +74,6 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2015-GMC-Sierra_1500-SLT-3GTU2VEJ0FG332020/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2015-GMC-Sierra_1500-SLT-3GTU2VEJ0FG332020/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-22T18:29:16",
-      "condition": "used",
-      "city": "Penticton",
-      "province": "BC"
-    },
-    {
-      "name": "Used2018GMCSierra 3500HD4WDDenali",
-      "vin": "1GT42YEY0JF284687",
-      "stock": "SIERRA",
-      "color": "Summit White",
-      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/used/cafd1e4ca30c.html",
-      "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2018-GMC-Sierra_3500HD-Denali-1GT42YEY0JF284687/",
-      "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2018-GMC-Sierra_3500HD-Denali-1GT42YEY0JF284687/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T18:30:15",
       "condition": "used",
       "city": "Penticton",
       "province": "BC"
@@ -100,7 +99,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/used/7b5ca1926c6e.html",
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2019-GMC-Sierra_3500HD-BASE-1GT42TCY8KF240685/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2019-GMC-Sierra_3500HD-BASE-1GT42TCY8KF240685/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T07:49:48",
+      "last_verified": "2026-10-25T00:16:41",
       "condition": "used",
       "city": "Penticton",
       "province": "BC"
@@ -139,7 +138,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/used/09d175a40600.html",
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2021-GMC-Sierra_3500HD-SLE-1GT49TEYXMF292654/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2021-GMC-Sierra_3500HD-SLE-1GT49TEYXMF292654/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T18:43:31",
+      "last_verified": "2026-10-25T00:16:26",
       "condition": "used",
       "city": "Penticton",
       "province": "BC"
@@ -152,7 +151,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/used/0b90cd0bd262.html",
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2021-GMC-Sierra_3500HD-SLT-1GT49UEY4MF301256/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2021-GMC-Sierra_3500HD-SLT-1GT49UEY4MF301256/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-21T18:43:14",
+      "last_verified": "2026-10-25T00:15:51",
       "condition": "used",
       "city": "Penticton",
       "province": "BC"
@@ -190,20 +189,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/used/3aa1b254585c.html",
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2022-GMC-Sierra_3500HD-SLE-1GT39TE73NF133057/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2022-GMC-Sierra_3500HD-SLE-1GT39TE73NF133057/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T07:50:29",
-      "condition": "used",
-      "city": "Penticton",
-      "province": "BC"
-    },
-    {
-      "name": "Used2022GMCYukon XL4WDDenali",
-      "vin": "1GKS2JKTXNR105474",
-      "stock": "SIERRA",
-      "color": "Satin Steel Metallic",
-      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/used/65c3336d4ec4.html",
-      "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2022-GMC-Yukon_XL-Denali-1GKS2JKTXNR105474/",
-      "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2022-GMC-Yukon_XL-Denali-1GKS2JKTXNR105474/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T07:49:39",
+      "last_verified": "2026-10-25T00:17:26",
       "condition": "used",
       "city": "Penticton",
       "province": "BC"
@@ -222,6 +208,18 @@
       "province": "BC"
     },
     {
+      "name": "Used2023FordBronco4WDWildtrak",
+      "vin": "1FMEE5DP9PLB49829",
+      "stock": "SIERRA",
+      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/used/7a1470d8f991.html",
+      "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2023-Ford-Bronco-Wildtrak-1FMEE5DP9PLB49829/",
+      "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2023-Ford-Bronco-Wildtrak-1FMEE5DP9PLB49829/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-25T00:15:14",
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
+    },
+    {
       "name": "Used2023GMCSierra 15004WDAT4",
       "vin": "1GTUUEE86PZ173514",
       "stock": "SIERRA",
@@ -229,7 +227,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/used/7aca772f34de.html",
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2023-GMC-Sierra_1500-AT4-1GTUUEE86PZ173514/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2023-GMC-Sierra_1500-AT4-1GTUUEE86PZ173514/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T07:51:00",
+      "last_verified": "2026-10-25T00:17:58",
       "condition": "used",
       "city": "Penticton",
       "province": "BC"
@@ -242,7 +240,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/used/a5ccefb9bbe5.html",
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2023-GMC-Sierra_1500-Denali-3GTUUGED1PG119532/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2023-GMC-Sierra_1500-Denali-3GTUUGED1PG119532/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T07:51:12",
+      "last_verified": "2026-10-25T00:18:07",
       "condition": "used",
       "city": "Penticton",
       "province": "BC"
@@ -255,7 +253,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/used/b0eec9ea2958.html",
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2023-GMC-Sierra_3500HD-SLT-1GT49UEY0PF148640/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2023-GMC-Sierra_3500HD-SLT-1GT49UEY0PF148640/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T07:50:08",
+      "last_verified": "2026-10-25T00:17:04",
       "condition": "used",
       "city": "Penticton",
       "province": "BC"
@@ -268,20 +266,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/used/16760aefa7ec.html",
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2024-GMC-Sierra_1500-Denali-3GTUUGEL0RG231314/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2024-GMC-Sierra_1500-Denali-3GTUUGEL0RG231314/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T07:50:18",
-      "condition": "used",
-      "city": "Penticton",
-      "province": "BC"
-    },
-    {
-      "name": "Certified Used2024GMCSierra 15004WDDenali",
-      "vin": "3GTUUGEL8RG212008",
-      "stock": "SIERRA",
-      "color": "Downpour Metallic",
-      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/used/06c823af5f52.html",
-      "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2024-GMC-Sierra_1500-Denali-3GTUUGEL8RG212008/",
-      "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2024-GMC-Sierra_1500-Denali-3GTUUGEL8RG212008/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T07:51:21",
+      "last_verified": "2026-10-25T00:17:15",
       "condition": "used",
       "city": "Penticton",
       "province": "BC"
@@ -294,7 +279,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/used/e5d9c4f778b8.html",
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2024-GMC-Sierra_1500-Elevation-1GTUUCED6RZ338983/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2024-GMC-Sierra_1500-Elevation-1GTUUCED6RZ338983/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T07:51:32",
+      "last_verified": "2026-10-25T00:18:17",
       "condition": "used",
       "city": "Penticton",
       "province": "BC"
@@ -320,7 +305,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/used/0573bc0ea619.html",
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2024-GMC-Sierra_2500HD-Denali_Ultimate-1GT49XEY7RF453461/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2024-GMC-Sierra_2500HD-Denali_Ultimate-1GT49XEY7RF453461/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T07:50:39",
+      "last_verified": "2026-10-25T00:17:35",
       "condition": "used",
       "city": "Penticton",
       "province": "BC"
@@ -333,7 +318,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/used/9b8976ba4709.html",
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2024-GMC-Sierra_3500HD-AT4-1GT49VEY1RF363758/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2024-GMC-Sierra_3500HD-AT4-1GT49VEY1RF363758/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T07:51:42",
+      "last_verified": "2026-10-25T00:18:29",
       "condition": "used",
       "city": "Penticton",
       "province": "BC"
@@ -359,7 +344,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/used/64c419bdea01.html",
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2024-GMC-Sierra_3500HD-Denali_Ultimate-1GT49YEY0RF237957/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2024-GMC-Sierra_3500HD-Denali_Ultimate-1GT49YEY0RF237957/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T07:51:54",
+      "last_verified": "2026-10-25T00:18:43",
       "condition": "used",
       "city": "Penticton",
       "province": "BC"
@@ -372,7 +357,7 @@
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/used/1dbc40a9c804.html",
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2024-Ram-3500-Limited-3C63R3SL8RG230882/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2024-Ram-3500-Limited-3C63R3SL8RG230882/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T07:49:59",
+      "last_verified": "2026-10-25T00:16:52",
       "condition": "used",
       "city": "Penticton",
       "province": "BC"
@@ -386,19 +371,6 @@
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2025-GMC-Sierra_1500-AT4-1GTUUEE89SZ209432/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2025-GMC-Sierra_1500-AT4-1GTUUEE89SZ209432/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-22T07:52:06",
-      "condition": "used",
-      "city": "Penticton",
-      "province": "BC"
-    },
-    {
-      "name": "Used2025GMCSierra 15004WDDenali Ultimate",
-      "vin": "1GTUUHE89SZ196053",
-      "stock": "SIERRA",
-      "color": "Onyx Black",
-      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/used/04cd4d533b94.html",
-      "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2025-GMC-Sierra_1500-Denali_Ultimate-1GTUUHE89SZ196053/",
-      "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2025-GMC-Sierra_1500-Denali_Ultimate-1GTUUHE89SZ196053/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T18:29:08",
       "condition": "used",
       "city": "Penticton",
       "province": "BC"
@@ -424,7 +396,33 @@
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/used/937dd29f6dec.html",
       "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2025-GMC-Sierra_3500HD-Denali_Ultimate-1GT4UYEY3SF324532/",
       "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2025-GMC-Sierra_3500HD-Denali_Ultimate-1GT4UYEY3SF324532/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-22T07:50:49",
+      "last_verified": "2026-10-25T00:17:49",
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
+    },
+    {
+      "name": "Used2026GMCSierra 15004WDDenali Ultimate",
+      "vin": "1GTUUHE84TZ326886",
+      "stock": "SIERRA",
+      "color": "Sterling Metallic",
+      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/used/b65e2b6aad79.html",
+      "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2026-GMC-Sierra_1500-Denali_Ultimate-1GTUUHE84TZ326886/",
+      "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2026-GMC-Sierra_1500-Denali_Ultimate-1GTUUHE84TZ326886/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-25T00:15:25",
+      "condition": "used",
+      "city": "Penticton",
+      "province": "BC"
+    },
+    {
+      "name": "Used2026GMCSierra 15004WDElevation",
+      "vin": "3GTUUCED4TG107149",
+      "stock": "SIERRA",
+      "color": "Cardinal Red",
+      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/used/15d1f54b86cc.html",
+      "source_url": "https://www.murraygmpenticton.ca/inventory/Used-2026-GMC-Sierra_1500-Elevation-3GTUUCED4TG107149/",
+      "dealer_url": "https://www.murraygmpenticton.ca/inventory/Used-2026-GMC-Sierra_1500-Elevation-3GTUUCED4TG107149/?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-25T00:15:36",
       "condition": "used",
       "city": "Penticton",
       "province": "BC"
