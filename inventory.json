@@ -1,7 +1,7 @@
 {
   "dealership": "Murray Buick Gmc Penticton",
-  "generated_at": "2026-10-25T20:04:45",
-  "vehicle_count": 171,
+  "generated_at": "2026-10-25T20:12:49",
+  "vehicle_count": 172,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -549,6 +549,12 @@
       "name": "New2026GMCSierra 15004WDElevation",
       "vin": "3GTUUCED7TG249544",
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/f705816f0654.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026GMCSierra 15004WDPro",
+      "vin": "1GTPUAEK0TZ512957",
+      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/b9680333e33a.html",
       "condition": "new"
     },
     {
