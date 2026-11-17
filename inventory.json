@@ -1,7 +1,7 @@
 {
   "dealership": "Murray Buick Gmc Penticton",
-  "generated_at": "2026-11-17T00:52:01",
-  "vehicle_count": 165,
+  "generated_at": "2026-11-17T01:00:56",
+  "vehicle_count": 153,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -174,12 +174,6 @@
       "condition": "new"
     },
     {
-      "name": "New2026BuickEncore GXAWDAvenir",
-      "vin": "KL4AMGSL5TB040683",
-      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/8717fca7cffd.html",
-      "condition": "new"
-    },
-    {
       "name": "New2026BuickEnvisionAWDAvenir",
       "vin": "LRBFZSR4XTD084308",
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/c74157645718.html",
@@ -247,12 +241,6 @@
     },
     {
       "name": "New2026BuickEnvistaFWDSport Touring",
-      "vin": "KL47LBE24TB201687",
-      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/e54f1a173c93.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026BuickEnvistaFWDSport Touring",
       "vin": "KL47LBE25TB215100",
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/1c56768968de.html",
       "condition": "new"
@@ -273,12 +261,6 @@
       "name": "New2026GMCAcadiaAWDDenali Ultimate",
       "vin": "1GKENTKS8TJ347683",
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/49b1afc000d7.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCCanyon4WDAT4",
-      "vin": "1GTP2DEK4T1154767",
-      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/d35bbca14961.html",
       "condition": "new"
     },
     {
@@ -315,12 +297,6 @@
       "name": "New2026GMCCanyon4WDElevation",
       "vin": "1GTP2BEKXT1178026",
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/b7c983b1ebb9.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCCanyon4WDElevation",
-      "vin": "1GTP2BEKXT1306099",
-      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/55a6079d0d63.html",
       "condition": "new"
     },
     {
@@ -363,12 +339,6 @@
       "name": "New2026GMCSierra 15004WDAT4X",
       "vin": "3GTUUFEL4TG217014",
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/0945ce89eccd.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 15004WDAT4X",
-      "vin": "3GTUUFEL4TG385963",
-      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/05c43b68c915.html",
       "condition": "new"
     },
     {
@@ -429,12 +399,6 @@
       "name": "New2026GMCSierra 15004WDElevation",
       "vin": "1GTVUCE8XTZ218232",
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/a40c561c5937.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 15004WDElevation",
-      "vin": "3GTUUCE80TG418287",
-      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/b3d4c3750a9b.html",
       "condition": "new"
     },
     {
@@ -505,6 +469,12 @@
     },
     {
       "name": "New2026GMCSierra 15004WDElevation",
+      "vin": "3GTUUCED6TG325528",
+      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/6537d3810345.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026GMCSierra 15004WDElevation",
       "vin": "3GTUUCED7TG249544",
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/f705816f0654.html",
       "condition": "new"
@@ -535,12 +505,6 @@
     },
     {
       "name": "New2026GMCSierra 15004WDPro",
-      "vin": "1GTUUAED2TZ400665",
-      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/f76e809a67f3.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 15004WDPro",
       "vin": "1GTUUAED6TZ393963",
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/752c1356b9c1.html",
       "condition": "new"
@@ -565,20 +529,8 @@
     },
     {
       "name": "New2026GMCSierra 15004WDPro",
-      "vin": "3GTPUAEK1TG470427",
-      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/bd84ff9485ab.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 15004WDPro",
       "vin": "3GTPUAEK4TG470681",
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/ac2ca62ce1ef.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 15004WDPro",
-      "vin": "3GTPUAEK5TG470186",
-      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/fc8951fd0339.html",
       "condition": "new"
     },
     {
@@ -591,12 +543,6 @@
       "name": "New2026GMCSierra 15004WDPro",
       "vin": "3GTPUAEK9TG385867",
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/05830030dca7.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 15004WDPro",
-      "vin": "3GTPUAEK9TG469641",
-      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/1e5281383817.html",
       "condition": "new"
     },
     {
@@ -625,32 +571,26 @@
     },
     {
       "name": "New2026GMCSierra 2500HD4WDAT4X",
-      "vin": "1GT4UZEY1TF363532",
-      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/f1af5f4a391c.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 2500HD4WDAT4X",
       "vin": "1GT4UZEY5TF339685",
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/ef136e9c52b0.html",
       "condition": "new"
     },
     {
       "name": "New2026GMCSierra 2500HD4WDAT4X",
-      "vin": "1GT4UZEY7TF414113",
-      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/f9051fed6ed4.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 2500HD4WDAT4X",
-      "vin": "1GT4UZEY8TF371787",
-      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/daa54c92d3f6.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 2500HD4WDAT4X",
       "vin": "1GT4UZEY9TF372477",
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/49adf0301866.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026GMCSierra 2500HD4WDAT4X",
+      "vin": "1GT4UZEYXTF413635",
+      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/5f3383d5d732.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026GMCSierra 3500HD4WDAT4",
+      "vin": "1GT4UVEY0TF350697",
+      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/bc2b2e4510e7.html",
       "condition": "new"
     },
     {
@@ -669,12 +609,6 @@
       "name": "New2026GMCSierra 3500HD4WDAT4",
       "vin": "1GT4UVEY1TF207922",
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/543347d45c55.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 3500HD4WDAT4",
-      "vin": "1GT4UVEY6TF355967",
-      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/612df4c6b0c8.html",
       "condition": "new"
     },
     {
@@ -697,12 +631,6 @@
     },
     {
       "name": "New2026GMCSierra 3500HD4WDDenali",
-      "vin": "1GT4UWEY9TF329367",
-      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/385fd5205cc7.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 3500HD4WDDenali",
       "vin": "1GT4UWEYXTF401872",
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/e8d08f88e1df.html",
       "condition": "new"
@@ -715,20 +643,8 @@
     },
     {
       "name": "New2026GMCSierra 3500HD4WDDenali Ultimate",
-      "vin": "1GT4UYEY3TF372730",
-      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/079f961985ab.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 3500HD4WDDenali Ultimate",
       "vin": "1GT4UYEY3TF372744",
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/ed474e618f74.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 3500HD4WDDenali Ultimate",
-      "vin": "1GT4UYEY5TF348655",
-      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/f23e962e10cf.html",
       "condition": "new"
     },
     {
@@ -750,9 +666,9 @@
       "condition": "new"
     },
     {
-      "name": "New2026GMCSierra 3500HD4WDPro",
-      "vin": "1GT3USEY5TF279149",
-      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/15cd266bc6d2.html",
+      "name": "New2026GMCSierra 3500HD4WDDenali Ultimate",
+      "vin": "1GT4UYEY9TF401776",
+      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/f2c5040dcdc0.html",
       "condition": "new"
     },
     {
@@ -787,32 +703,26 @@
     },
     {
       "name": "New2026GMCSierra 3500HD4WDSLE",
-      "vin": "1GT4UTEY1TF400186",
-      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/66662dca2d57.html",
+      "vin": "1GT4UTEY6TF175392",
+      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/5521f0c6f3d2.html",
       "condition": "new"
     },
     {
-      "name": "New2026GMCSierra 3500HD4WDSLE",
-      "vin": "1GT4UTEY6TF175392",
-      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/5521f0c6f3d2.html",
+      "name": "New2026GMCSierra 3500HD CC4WDPro",
+      "vin": "1GD4USE76TF323814",
+      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/abf2818f94c6.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2026GMCSierra 3500HD CC4WDPro",
+      "vin": "1GD4USE79TF323631",
+      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/fda4dd45c419.html",
       "condition": "new"
     },
     {
       "name": "New2026GMCSierra 3500HD CC4WDSLE",
       "vin": "1GD3UTEY7TF131683",
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/53eccd1c1fa5.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 3500HD CC4WDSLE",
-      "vin": "1GD3UTEY8TF131871",
-      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/7430c1f75763.html",
-      "condition": "new"
-    },
-    {
-      "name": "New2026GMCSierra 3500HD CC4WDSLE",
-      "vin": "1GD3UTEY8TF166359",
-      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/125ac985bbe1.html",
       "condition": "new"
     },
     {
@@ -876,9 +786,21 @@
       "condition": "new"
     },
     {
+      "name": "New2027BuickEnclaveAWDAvenir",
+      "vin": "5GAEVCKS7VJ187456",
+      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/d41f9c355ee6.html",
+      "condition": "new"
+    },
+    {
       "name": "New2027GMCAcadiaAWDAT4",
       "vin": "1GKEMPKS0VJ160192",
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/15e7b4f5676e.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027GMCAcadiaAWDDenali Ultimate",
+      "vin": "1GKEMTKS2VJ165306",
+      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/35bb99afa222.html",
       "condition": "new"
     },
     {
@@ -981,6 +903,12 @@
       "name": "New2027GMCYukon XL4WDAT4",
       "vin": "1GKS2HK80VR107755",
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/2eed8bb2fcb0.html",
+      "condition": "new"
+    },
+    {
+      "name": "New2027GMCYukon XL4WDDenali",
+      "vin": "1GKS2JKL3VR131866",
+      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/new/265fe206f452.html",
       "condition": "new"
     },
     {
