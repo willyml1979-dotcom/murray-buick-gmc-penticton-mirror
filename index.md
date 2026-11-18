@@ -1,6 +1,6 @@
 # Murray Buick GMC Penticton
 
- dealership in Penticton. AI-readable inventory mirror, about 153 vehicles.
+ dealership in Penticton. AI-readable inventory mirror, about 151 vehicles.
 
 - Official website: https://www.murraygmpenticton.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/used/
