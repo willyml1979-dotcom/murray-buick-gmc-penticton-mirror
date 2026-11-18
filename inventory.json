@@ -1,7 +1,7 @@
 {
   "dealership": "Murray Buick Gmc Penticton",
-  "generated_at": "2026-11-18T07:00:32",
-  "vehicle_count": 151,
+  "generated_at": "2026-11-18T15:19:49",
+  "vehicle_count": 153,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -120,6 +120,12 @@
       "condition": "used"
     },
     {
+      "name": "Used2024GMCSierra 3500HD4WDDenali",
+      "vin": "1GT49WEY5RF175993",
+      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/used/d94b47ac7f33.html",
+      "condition": "used"
+    },
+    {
       "name": "Used2024GMCSierra 3500HD4WDDenali Ultimate",
       "vin": "1GT49YEY0RF237957",
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/used/64c419bdea01.html",
@@ -147,6 +153,12 @@
       "name": "Certified Used2025GMCSierra 3500HD4WDSLT",
       "vin": "1GT4UUEY2SF323736",
       "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/used/4ecdf3184172.html",
+      "condition": "used"
+    },
+    {
+      "name": "Used2026FordSuper Duty F-450 DRW4WDPlatinum",
+      "vin": "1FT8W4DM5TED94995",
+      "url": "https://willyml1979-dotcom.github.io/murray-buick-gmc-penticton-mirror/used/fe01474251f0.html",
       "condition": "used"
     },
     {
